@@ -1,0 +1,12 @@
+com.informix.jdbc.IfxDriver
+oracle.jdbc.driver.OracleDriver
+jdbc:informix-sqli://10.39.60.26:50011/gru:INFORMIXSERVER=inf_zsi_m
+jdbc:oracle:thin:@10.19.35.253:1532:odstst
+deceuser
+jf225657
+Saszsi123
+A3Kd47yC90
+C:\\Users\\JF225657\\Documents\\Projects\\Eclipse\\
+C:\\Users\\JF225657\\Documents\\Projects\\Eclipse\\Polisy.xlsx
+Polisy.xlsx
+TC
